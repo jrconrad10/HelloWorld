@@ -7,6 +7,7 @@ public class HelloWorld {
 		GitHelloWorld one = new GitHelloWorld(1);
 		GitHelloWorld two = new GitHelloWorld(2);
 		GitHelloWorld three = new GitHelloWorld(3);
-		System.out.println("How are you?");
+		
+		GitHelloWorld four = new GitHelloWorld(4);
 	}
 }
